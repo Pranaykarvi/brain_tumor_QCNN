@@ -2,20 +2,20 @@
 
 This project demonstrates the use of **Quantum Convolutional Neural Networks (QCNN)** to classify MRI brain scans into tumor and non-tumor categories. It blends classical deep learning with quantum computing to enhance diagnostic accuracy while minimizing the number of parameters.
 
-## 📌 Overview
+## Overview
 
 - **Objective:** Binary classification of brain MRI images.
 - **Methodology:** Classical CNN + Quantum layer using Pennylane and PyTorch.
 - **Dataset:** Brain MRI Images (Tumor vs Non-Tumor).
 
-## 🧪 Tech Stack
+##  Tech Stack
 
 - Python
 - PyTorch
 - Pennylane (for quantum circuit integration)
 - NumPy, PIL, Matplotlib
 
-## 🚀 Workflow
+##  Workflow
 
 1. **Data Preprocessing**
    - Resize to 64x64
@@ -32,14 +32,12 @@ This project demonstrates the use of **Quantum Convolutional Neural Networks (QC
    - Adam Optimizer
    - Epoch-wise accuracy and loss tracking
 
-## 📈 Results
+## Results
 
 - QCNN model demonstrated competitive performance with reduced parameter count.
 - Visualized confusion matrix and training metrics.
 
-## 📷 Output
 
-- Includes prediction visuals and training history plots.
 
 ## 📚 References
 
